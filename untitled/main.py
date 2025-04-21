@@ -24,7 +24,7 @@ from keras.layers import Dense, GlobalAveragePooling2D
 from keras import backend as K
 from keras.applications.resnet50 import preprocess_input
 
-token = "789225272:AAGBlMwgDHu22ZhVzpSp2ev7ASoxOKf_4Jw"
+token = "edited 2025.04.25"
 URL = "https://api.telegram.org/bot" + token + "/"
 new = True
 name = False
